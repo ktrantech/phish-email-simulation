@@ -5,7 +5,7 @@
 
 
 
-<h1>Design a Phishing Email Simulation with Mastercard</h1>
+<h1>Draft a Phishing Email Simulation for Mastercard</h1>
 This tutorial outlines crafting a phishing email simulation to be used to raise awareness of one of the most common threats organizations today face.  <br />
 
 
